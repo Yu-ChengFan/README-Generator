@@ -1,11 +1,11 @@
-# Readme generator
+# n
 
 
-  https://img.shields.io/badge/license-MIT-green.svg
+  ![alt text](https://img.shields.io/badge/license-MIT-green.svg)
 
   # Description:
 
-  A generator for readme
+  n
 
 
   # Table of Contents:
@@ -27,31 +27,31 @@
 
   # Installation:
 
-  none
+  n
 
   # Usage:
 
-  generator
+  n
 
   # Contribution:
 
-  none
+  n
 
   # Test:
 
-  none
+  n
 
   # License: 
 
   
-  https://img.shields.io/badge/license-MIT-green.svg
+  ![alt text](https://img.shields.io/badge/license-MIT-green.svg)
   https://opensource.org/licenses/MIT
   
 
   # Questions:
 
-  none
+  n
 
 
-  My Github: [Yu-ChengFan(http://github.com/Yu-ChengFan)]
-  My Email: kevin130366@gmail.com
+  My Github: [n(http://github.com/n)]
+  My Email: n
