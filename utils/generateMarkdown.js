@@ -3,9 +3,8 @@
 
 function renderLicenseBadge(license) {
   if (license !== 'No license') {
-    return `<img src= "https://img.shields.io/badge/license-${license}-green>`
+    return `https://img.shields.io/badge/license-${license}-green.svg`
   }
-  
 };
 
 // TODO: Create a function that returns the license link
