@@ -1,11 +1,11 @@
-# n
+# Generator
 
 
   ![alt text](https://img.shields.io/badge/license-MIT-green.svg)
 
   # Description:
 
-  n
+  generator
 
 
   # Table of Contents:
@@ -27,19 +27,19 @@
 
   # Installation:
 
-  n
+  none
 
   # Usage:
 
-  n
+  none
 
   # Contribution:
 
-  n
+  none
 
   # Test:
 
-  n
+  none
 
   # License: 
 
@@ -50,8 +50,8 @@
 
   # Questions:
 
-  n
+  none
 
 
-  My Github: [n(http://github.com/n)]
-  My Email: n
+  My Github: [Yu-ChengFan(http://github.com/Yu-ChengFan)]
+  My Email: kevin130366@gmail.com
