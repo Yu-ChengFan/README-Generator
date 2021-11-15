@@ -1,7 +1,7 @@
 # Readme generator
 
 
-  https://img.shields.io/badge/license-MIT-green
+  <img scr= "https://img.shields.io/badge/license-MIT-green">
 
   # Description:
 
@@ -31,7 +31,7 @@
 
   # Usage:
 
-  generate
+  generator
 
   # Contribution:
 
@@ -44,7 +44,7 @@
   # License: 
 
   
-  https://img.shields.io/badge/license-MIT-green
+  <img scr= "https://img.shields.io/badge/license-MIT-green">
   https://opensource.org/licenses/MIT
   
 
