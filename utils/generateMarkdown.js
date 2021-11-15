@@ -3,7 +3,7 @@
 
 function renderLicenseBadge(license) {
   if (license !== 'No license') {
-    return `<img scr= "https://img.shields.io/badge/license-${license}-green">`
+    return `<img src= "https://img.shields.io/badge/license-${license}-green>`
   }
   
 };
